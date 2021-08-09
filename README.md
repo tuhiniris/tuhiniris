@@ -1,7 +1,6 @@
 <div align="center">
-<img src="https://s6.gifyu.com/images/5OcF.gif" align="center" width="1280" height="300" />
+<img src="https://i.pinimg.com/originals/5b/54/39/5b543923641d0ef1df257706e19ee255.gif" align="center" width="400" height="300" />
 </div>  
-  
 
 ### <div align="center">I'm Tuhinadri, studying at Institute of Engineering & Management, Kolkata 👨‍💻 GitHappy Always 🚀</div>  
   
@@ -20,6 +19,9 @@
 
 <br/>  
 
+<div align="center">
+<img src="https://s6.gifyu.com/images/5OcF.gif" align="center" width="1280" height="300" />
+</div>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
