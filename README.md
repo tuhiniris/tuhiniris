@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [Secret Future Stuff <3](#)  
   
 
-- 🌱 I'm currently upskilling on ReactJS Frameworks  
+- 🌱 I'm currently upskilling on Spring MVC Frameworks 
   
 
 - ❓ Ask me about anything related to Python, JAVA and related technologies  
